@@ -1,0 +1,2 @@
+C:\Users\robop\source\repos\CrashCourse\Debug\CrashCourse.exe
+C:\Users\robop\source\repos\CrashCourse\Debug\CrashCourse.pdb

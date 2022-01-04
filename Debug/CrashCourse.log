@@ -1,0 +1,3 @@
+﻿  CrashCourse.cpp
+C:\Users\robop\source\repos\CrashCourse\CrashCourse.cpp(104,6): warning C4101: 'array_4': unreferenced local variable
+  CrashCourse.vcxproj -> C:\Users\robop\source\repos\CrashCourse\Debug\CrashCourse.exe
