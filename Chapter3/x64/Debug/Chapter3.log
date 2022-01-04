@@ -1,0 +1,6 @@
+﻿  Chapter3.cpp
+C:\Users\robop\source\repos\Chapter3\Chapter3.cpp(49,12): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
+C:\Users\robop\source\repos\Chapter3\Chapter3.cpp(49,12): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'int'
+C:\Users\robop\source\repos\Chapter3\Chapter3.cpp(54,12): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
+C:\Users\robop\source\repos\Chapter3\Chapter3.cpp(54,12): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'int'
+  Chapter3.vcxproj -> C:\Users\robop\source\repos\CrashCourse\x64\Debug\Chapter3.exe
