@@ -1,6 +1,10 @@
 ﻿  Chapter3.cpp
-C:\Users\robop\source\repos\Chapter3\Chapter3.cpp(49,12): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
-C:\Users\robop\source\repos\Chapter3\Chapter3.cpp(49,12): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'int'
-C:\Users\robop\source\repos\Chapter3\Chapter3.cpp(54,12): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
-C:\Users\robop\source\repos\Chapter3\Chapter3.cpp(54,12): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'int'
-  Chapter3.vcxproj -> C:\Users\robop\source\repos\CrashCourse\x64\Debug\Chapter3.exe
+C:\Users\jbowden\source\personal\CrashCourse\Chapter3\Chapter3.cpp(84,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\jbowden\source\personal\CrashCourse\Chapter3\Chapter3.cpp(84,16): message : consider using '%lld' in the format string
+C:\Users\jbowden\source\personal\CrashCourse\Chapter3\Chapter3.cpp(84,16): message : consider using '%Id' in the format string
+C:\Users\jbowden\source\personal\CrashCourse\Chapter3\Chapter3.cpp(84,16): message : consider using '%I64d' in the format string
+C:\Users\jbowden\source\personal\CrashCourse\Chapter3\Chapter3.cpp(100,12): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
+C:\Users\jbowden\source\personal\CrashCourse\Chapter3\Chapter3.cpp(100,12): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'int'
+C:\Users\jbowden\source\personal\CrashCourse\Chapter3\Chapter3.cpp(105,12): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
+C:\Users\jbowden\source\personal\CrashCourse\Chapter3\Chapter3.cpp(105,12): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'int'
+  Chapter3.vcxproj -> C:\Users\jbowden\source\personal\CrashCourse\x64\Debug\Chapter3.exe
